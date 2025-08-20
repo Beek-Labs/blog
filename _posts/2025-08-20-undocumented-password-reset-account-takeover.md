@@ -3,9 +3,12 @@ title: "The Undocumented Password Reset That Exposed 1.3M Users and Resulted in 
 layout: post
 ---
 
+
 Password reset flows are supposed to be the last safety net for users. Done right, they help recover access securely. Done wrong, they can hand over full control of accounts to attackers.  
 
 During a bug bounty season, we came across a case where this exact flaw existed. What started as an undocumented endpoint quickly escalated into **three different account takeover scenarios**, all within one of the world’s most popular financial platforms.
+
+---
 
 ## An Undocumented Functionality
 
