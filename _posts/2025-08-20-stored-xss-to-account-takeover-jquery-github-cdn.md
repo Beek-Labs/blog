@@ -76,5 +76,3 @@ Key factors that enabled this exploitation:
 - **January 20, 2025** – **Reward:** $200 bounty (maximum payout for ATO in this program)
 
 <img width="281" height="667" alt="BountyReward" src="https://github.com/user-attachments/assets/60b9fc38-127c-4cb8-b7fc-4a63cced3ebe" />
-
-**Author:** Erik Villegas
