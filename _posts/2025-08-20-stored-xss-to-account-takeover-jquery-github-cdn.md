@@ -1,5 +1,5 @@
 ---
-title: "From Stored XSS to Account Takeover with Limited Characters, jQuery, and GitHub"
+title: "From Stored XSS to Account Takeover with Limited Characters, CDN, jQuery, and GitHub"
 layout: post
 author: Erik Villegas
 ---
