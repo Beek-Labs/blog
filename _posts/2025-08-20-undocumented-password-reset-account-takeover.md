@@ -52,7 +52,7 @@ X-User-Token: REDACTED
 
 - **Response:**
 
-```http
+```json
 HTTP/2 201 Created
 
 {
@@ -80,7 +80,7 @@ The following image shows the response from the undocumented API, which exposes 
 
 With the token in hand, the attacker could directly reset the victim’s password:
 
-```http
+```json
 https://example.com/reset-password?reset_password_token={Token_here}
 ```
 
@@ -103,7 +103,7 @@ The `reset_password_path` parameter, also found in the hidden JS code, was **ful
 
 That meant the attacker could inject their own domain:
 
-```http
+```json
 {
    "reset_password_path": "https://evil.com/",
    [...]
