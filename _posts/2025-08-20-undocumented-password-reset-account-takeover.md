@@ -1,6 +1,7 @@
 ---
 title: "The Undocumented Password Reset That Exposed 1.3M Users and Resulted in Account Takeovers"
 layout: post
+author: Erik Villegas
 ---
 
 
@@ -161,3 +162,5 @@ This case highlights several important lessons:
 - **May 7, 2024** – **Reward:** **$3,000 bounty** awarded for the report  
 
 <img width="278" height="617" alt="BountyReward" src="https://github.com/user-attachments/assets/99fc7e64-e794-44cf-ad6f-8c45a9a7e87a" />
+
+**Author:** Erik Villegas
